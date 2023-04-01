@@ -4,7 +4,8 @@ A simple multithreaded  github update checker
 Author : ananthuthilakan 
 dischord : discretecourage#0179
 Website : ananthuthilakan.com
-
+github : https://github.com/ananthuthilakan/Github_Update_Checker/edit/main/simpleUpdatechecker.ahk
+Blog_Url : 
 Credits : Hotkeyit , ahktojson by teadrinker 
 */
 
